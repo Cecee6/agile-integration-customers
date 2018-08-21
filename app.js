@@ -41,7 +41,7 @@ app.use(
 
     connection(mysql,{
 
-        host: '172.30.238.130', // host mysql service
+        host: '172.30.15.67',//host: '172.30.238.130', // host mysql service15
         user: 'dbuser',
         password : 'password',
         port : 3306, // port mysql service
